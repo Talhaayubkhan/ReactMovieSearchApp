@@ -51,7 +51,7 @@ Make sure you have the following installed on your local machine:
    yarn dev
    ```
 
-   The app should now be running on [http://localhost:3000](http://localhost:3000).
+   The app should now be running on [http://localhost:5173].
 
 ## 💻 Usage
 
